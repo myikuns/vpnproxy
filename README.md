@@ -1,8 +1,7 @@
 # vpnproxy
 低价推荐VPN
 
-悦通12.9r 1TB 节点超多 速度快！三网优化很好！不定时送余额！https://yk1u.yue.to/#/register?code=JqCr6Tpn
-
+悦通12.9r 1TB 节点超多 速度快！三网优化很好！不定时送余额！[点我购买](https://yk1u.yue.to/#/register?code=JqCr6Tpn)
 
 轻云 12r年付/每月1TB 长期2TB只要6r！节点多 速度不错！https://qing.to/#/register?code=9pWeoTtH
 
