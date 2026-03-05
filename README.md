@@ -8,6 +8,6 @@
 
 [果冻加速](https://naichachong.com/#/register?code=yO3p6doW)9.9r不限量 节点较少 但速度快 邀请三个可以长期免费使用！
 
-[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI) 3r168GB 自带家宽，优选速度延迟！低延迟 绿色IP！3R每月 力推！
+[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI) 3r168GB 自带家宽，优选速度延迟！低延迟 3R每月 力推！
 
 [亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) 10r 不限时1234GB 带0.1x倍率 速度还可以 主打经济实惠！2r 500G!
