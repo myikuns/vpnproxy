@@ -4,6 +4,7 @@
 [良心云](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) 2r 100GB 日美港 三网极致优化 速度快 流媒体都解锁！晚高峰不卡顿！
 
 [悦通](https://yk1u.yue.to/#/register?code=JqCr6Tpn)12.9r 1TB 节点超多（！！带有家宽！！） 速度快！三网优化很好！不定时送余额！
+如果有做电商或者对IP要求度比较高的话，目前有台湾 美国 日本 韩国 越南这五大ISP家宽！（有家宽要求时 购买需要看套餐家宽标明）
 
 [轻云](https://qing.to/#/register?code=9pWeoTtH) 6r 2TB(长期) 节点多 速度不错！适合当备用！
 
