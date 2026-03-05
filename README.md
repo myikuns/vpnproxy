@@ -9,7 +9,7 @@
 
 [轻云](https://qing.to/#/register?code=9pWeoTtH) 6r 2TB(长期) 节点多 速度不错！适合当备用！
 
-[果冻加速](https://naichachong.com/#/register?code=yO3p6doW)9.9r不限量 节点较少 但速度快 邀请三个可以长期免费使用！
+[果冻加速](https://naichachong.com/#/register?code=yO3p6doW)9.9r不限量 节点较少 但速度快 有无审计节点 邀请三个可以长期免费使用！
 
 [狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI) 3r168GB 自带家宽，优选速度延迟！低延迟 3R每月 力推！
 
