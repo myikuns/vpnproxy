@@ -1,5 +1,5 @@
 # vpnproxy
-低价推荐VPN
+低价推荐VPN 日常会更新较慢 但不会滥竽充数 都是自己长期用过才会推荐！
 
 【[良心云](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3)】 2r 100GB 日美港 三网极致优化 速度快 流媒体都解锁！晚高峰不卡顿！
 
