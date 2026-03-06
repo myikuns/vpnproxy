@@ -15,5 +15,5 @@
 
 【[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI)】 3r168GB 自带家宽，优选速度延迟！低延迟 3R每月 力推！内有专门分销套餐，可以自己售卖！
 
-【[亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN)】 10r 不限时1234GB 带0.1x倍率 速度还可以 主打经济实惠！2r 500G!
+【[亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN)】 10r 不限时1234GB 带0.1x倍率 速度较为一般 主打备用经济实惠流媒体解锁 2r月付-500G!
 
