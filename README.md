@@ -7,13 +7,13 @@
 
 👆如果有做电商或者对IP要求度比较高的话，目前有台湾 美国 日本 韩国 越南这五大ISP家宽！（有家宽要求时 购买需要看套餐家宽标明）👆
 
+【[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI)】 3r168GB 自带香港和台湾家宽，优选速度延迟！3R每月 力推！内有专门分销套餐，可以自己售卖！
+
 【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 节点多 速度不错！适合当备用！
 
 【[XSUS](https://xs-us.xyz/register?code=6LiiWirT)】 10r/月 168G 延迟低 已经长期运营三年了，目前上线了IEPL 企业级跨境专线套餐，适合电竞和电商，保底500Mbps（78r/季付 100G）
 
 【[果冻加速](https://naichachong.com/#/register?code=yO3p6doW)】9.9r不限量 节点较少 但速度快 有无审计节点 邀请三个可以长期免费使用！
-
-【[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI)】 3r168GB 自带家宽，优选速度延迟！低延迟 3R每月 力推！内有专门分销套餐，可以自己售卖！
 
 【[亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN)】 10r 不限时1234GB 带0.1x倍率 速度较为一般 主打备用经济实惠流媒体解锁 2r月付-500G!
 
