@@ -1,5 +1,6 @@
 # vpnproxy
 低价推荐VPN 日常会更新较慢 但不会滥竽充数 都是自己长期用过才会推荐！最近属于特殊时期，多少都会有些波动。尽量选一些当备用！
+纯净IP购买：[支持静态住宅ip和动态短效ip](https://share.cliproxy.com/share/f57m8w8j2）
 
 ##
 【[良心云](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3)】 2r 100GB 日美港 三网极致优化 速度快 流媒体都解锁！晚高峰不卡顿！有一点 晚上会频繁跳CF人机验证（不过这个价位没啥说的）
