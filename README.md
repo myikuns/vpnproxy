@@ -13,7 +13,7 @@
 
 【[墨菲云](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)】 4r520GB 有中转和家宽(永久95折扣码：MFXY95%yyds) 内含0.1x节点倍率线路 家宽与低延迟节点为1.5x倍率 三网优化！但晚高峰稍差火候！
 
-【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 节点多 速度不错！适合当备用！跟悦通属于一个运营的，只是走的方向不同，一个量大管饱，一个高端一些
+【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 速度不错！适合当备用！跟悦通属于一个运营的，只是走的方向不同，一个量大管饱，一个高端一些 【目前节点被墙了一部分下架了一些后续会补充】
 
 【[XSUS](https://xs-us.xyz/register?code=6LiiWirT)】 10r/月 168G 延迟低 已经长期运营三年了，[目前上线了IEPL 企业级跨境专线套餐，适合电竞和电商，保底500Mbps（78r/季付 100G）]
 
