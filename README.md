@@ -7,15 +7,15 @@
 
 【[悦通](https://yk1u.yue.to/#/register?code=JqCr6Tpn)】12.9r 1TB 节点超多100+地区丰富（！！带有家宽！！带💎的套餐！！） 速度快！三网优化很好！不定时送余额！折扣码（20%）3.20结束：悦享闪购
 
-👆如果有做电商或者对IP要求度比较高的话，目前有台湾 美国 日本 韩国 越南这五大ISP家宽！（有家宽要求时 购买需要看套餐家宽标明）👆    👆※最近此机场SS协议被墙，家宽不影响，其他正在迁移※不着急建议先别上车※👆
+👆如果有做电商或者对IP要求度比较高的话，目前有台湾 美国 日本 韩国 越南这五大ISP家宽！（有家宽要求时 购买需要看套餐家宽标明）👆    👆※最近此机场SS协议被墙，家宽咱不影响，其他正在迁移※不着急建议先别上车※👆
 
-【[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI)】 3r168GB 自带香港和台湾家宽，优选速度延迟！3R每月 力推！内有专门分销套餐，可以自己售卖！
+【[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI)】 3r/168GB 自带香港和台湾家宽，优选速度延迟！3R每月 力推！内有专门分销套餐，可以自己售卖！
 
-【[墨菲云](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)】 4r520GB 有中转和家宽(永久95折扣码：MFXY95%yyds) 内含0.1x节点倍率线路 家宽与低延迟节点为1.5x倍率 三网优化！但晚高峰稍差火候！
+【[墨菲云](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)】 4r/520GB 有中转和家宽(永久95折扣码：MFXY95%yyds) 内含0.1x节点倍率线路 家宽与低延迟节点为1.5x倍率 三网优化！但晚高峰稍差火候！
 
 【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 速度不错！适合当备用！跟悦通属于一个运营的，只是走的方向不同，一个量大管饱，一个高端一些 【目前节点被墙了一部分下架了一些后续会补充】
 
-【[XSUS](https://xs-us.xyz/register?code=6LiiWirT)】 10r/月 168G 延迟低 已经长期运营三年了，[目前上线了IEPL 企业级跨境专线套餐，适合电竞和电商，保底500Mbps（78r/季付 100G）]
+【[XSUS](https://xs-us.xyz/register?code=6LiiWirT)】 10r/168G 延迟低 已经长期运营三年了【目前上线了IEPL 企业级跨境专线套餐 适合电竞和电商 保底500Mbps（78r/季付 100G）】
 
 【[果冻加速](https://naichachong.com/#/register?code=yO3p6doW)】9.9r不限量 节点较少 但速度快 有无审计节点 邀请三个可以长期免费使用！
 
