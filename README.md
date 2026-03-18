@@ -21,4 +21,4 @@
 
 【[亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN)】 10r 不限时1234GB 带0.1x倍率 速度较为一般 主打备用经济实惠流媒体解锁 2r月付-500G!
 
-【[魔法喵](https://magicat.click/register?code=Bf50gEzf)】 ！电信首推！11r/768G 解锁流媒体+AI 全是中转加密！安全可靠！（高级版节点12r/150G） 不过一般的就够用了 电信实测延迟基本能达到40+ms，已恢复！
+【[魔法喵](https://magicat.click/register?code=Bf50gEzf)】 ！电信首推！11r/768G 解锁流媒体+AI 全是中转加密！安全可靠！（高级版节点12r/150G） 不过一般的就够用了 电信实测延迟基本能达到40+ms 移动联通暂不推荐！
