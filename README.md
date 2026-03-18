@@ -7,7 +7,7 @@
 
 【[悦通](https://yk1u.yue.to/#/register?code=JqCr6Tpn)】12.9r 1TB 节点超多100+ 地区丰富（带💎的套餐为家宽） 速度快！三网优化很好！不定时送余额！折扣码（20%）3.20结束：悦享闪购
 
-👆如果有做电商或者对IP要求度比较高的话，目前有台湾 美国 日本 韩国 越南这五大ISP家宽！（有家宽要求时 购买需要看套餐家宽标明）👆【目前此机场有专属APP后续会上EMBY资源 建议使用专属APP】
+👆如果有做电商或者对IP要求度比较高的话，目前有台湾 美国 日本 韩国 越南这五大ISP家宽！（有家宽要求时 购买需要看套餐家宽标明）👆【目前此机场有[专属APP](https://github.com/onesyue/yuelink)后续会上EMBY资源 建议使用[专属APP](https://github.com/onesyue/yuelink)】
 
 【[狗子云](https://gz-cloud.top/#/register?code=kDV2n3tI)】 3r/168GB 自带香港和台湾家宽，优选速度延迟！3R每月 力推！内有专门分销套餐，可以自己售卖！
 
