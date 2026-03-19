@@ -14,7 +14,7 @@
 | **悦通**     | ¥12.9 / 1TB     | 100+节点、带💎为家宽套餐、不定期余额抽奖、有永久套餐    | [**注册链接**](https://yk1u.yue.to/#/register?code=JqCr6Tpn)      | 折扣码 **悦享闪购**（20% off，至3.20）<br>有[专属APP](https://github.com/onesyue/yuelink)建议使用<br>目前有台湾/美国/日本/韩国/越南 ISP 家宽节点 |
 | **狗子云**   | ¥3 / 168GB      | 香港/台湾家宽、延迟低、可分销              | [**注册链接**](https://gz-cloud.top/#/register?code=kDV2n3tI)                  | 低价家宽且内有专门分销套餐，可以自己售卖！                                |
 | **XSUS**     | ¥10 / 168GB     | 三年老牌、新 IEPL 专线（电竞/电商）        | [**注册链接**](https://xs-us.xyz/register?code=6LiiWirT)                       | IEPL 季付 ¥78/100G，保底 500Mbps                                    |
-| **墨菲云**   | ¥4 / 520GB      | 中转+家宽、0.1x节点、三网优化              | [**注册链接**](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)           | 折扣码：**MFXY95%yyds**                                             |
+| **墨菲云**   | ¥4 / 520GB      | 直连+中转+家宽、0.1x节点、家宽低延迟节点为1.1x~1.5x、三网优化   | [**注册链接**](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)           | 永久95折折扣码：**MFXY95%yyds**                                        |
 | **魔法喵**   | ¥11 / 768GB     | 全中转加密、流媒体+AI解锁、实测电信延迟40ms+       | [**注册链接**](https://magicat.click/register?code=Bf50gEzf)                   | 只推荐电信使用                                           |
 
 > **家宽/电商**：悦通 目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点！
