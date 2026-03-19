@@ -18,10 +18,14 @@
 
 【[墨菲云](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)】 4r/520GB 有中转和家宽(永久95折扣码：MFXY95%yyds) 内含0.1x节点倍率线路 家宽与低延迟节点为1.5x倍率 三网优化！但晚高峰稍差火候！
 
+【[魔法喵](https://magicat.click/register?code=Bf50gEzf)】 电信首推！11r/768G 解锁流媒体+AI 全是中转加密！安全可靠！（高级版节点12r/150G） 不过一般的就够用了 电信实测延迟基本能达到40+ms 移动联通暂不推荐！
+
+
+
+##以下的暂时不作优先考虑，建议只是当备用测试
+
 【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 【目前节点被墙了一部分 暂时不作推荐】
 
 【[果冻加速](https://naichachong.com/#/register?code=yO3p6doW)】9.9r不限量 节点较少 但速度快 有无审计节点 邀请三个可以长期免费使用！
 
 【[亏本机场](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN)】 10r 不限时1234GB 带0.1x倍率 速度较为一般 主打备用经济实惠流媒体解锁 2r月付-500G!
-
-【[魔法喵](https://magicat.click/register?code=Bf50gEzf)】 电信首推！11r/768G 解锁流媒体+AI 全是中转加密！安全可靠！（高级版节点12r/150G） 不过一般的就够用了 电信实测延迟基本能达到40+ms 移动联通暂不推荐！
