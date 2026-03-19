@@ -22,7 +22,7 @@
 
 ## 以下的暂时不作优先考虑，建议只是当备用测试
 
-【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 【目前节点被墙了一部分 暂时不作推荐】
+【[轻云](https://qing.to/#/register?code=9pWeoTtH)】 6r 2TB(长期) 【目前节点被墙了大部分 暂时不作推荐】
 
 【[果冻加速](https://naichachong.com/#/register?code=yO3p6doW)】9.9r不限量 节点较少 但速度快 有无审计节点 邀请三个可以长期免费使用！
 
