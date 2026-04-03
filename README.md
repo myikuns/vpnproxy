@@ -18,7 +18,7 @@
 | **狗子云**   | ¥3/168GB      | 香港/台湾家宽、延迟低、可分销、超低价格             | [**注册链接**](https://gz-cloud.top/#/register?code=kDV2n3tI)                  | 低价家宽且内有专门分销套餐，可以自己售卖！                      |
 | **XSUS**     | ¥10/168GB     | 三年老牌、新 IEPL 专线（电竞/电商）        | [**注册链接**](https://xs-us.xyz/register?code=6LiiWirT)                       | IEPL 季付 ¥78/100G，保底 500Mbps                                    |
 | **墨菲云**   | ¥4/520GB（直连&家宽）<br>¥10/100G（带专线·家宽）      | 直连+中转+家宽 有0.1x节点 <br>家宽低延迟节点为1.1x~1.5x、三网优化! | [**注册链接**](https://portal.mofeiyun.com/#/register?code=h3fwdY8y)   | 永久95折折扣码：**MFXY95%yyds**      |
-| **魔法喵（目前官网暂不通）**   | ¥10.9/768GB     | 全中转加密、流媒体+AI解锁、实测电信延迟40ms+  （目前官网暂不通）      | [**注册链接**](https://magicat.click/register?code=Bf50gEzf)                   | 只推荐电信使用                                                |
+| **魔法喵**   | ¥10.9/768GB     | 全中转加密、流媒体+AI解锁、实测电信延迟40ms+       | [**注册链接**](https://magicat.click/register?code=Bf50gEzf)                   | 只推荐电信使用                                                |
 
 
 > **家宽/电商**：悦通（目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点与专属AI节点！）狗子云（主要是香港与台湾家宽）
