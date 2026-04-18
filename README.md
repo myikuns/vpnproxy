@@ -26,7 +26,7 @@
 # 二、备用推荐
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1 | [轻云](#轻云) | [官网](https://qing.to/#/register?code=9pWeoTtH) | ¥6/2TB（长期）流量超大适合当长期备用！ |
+| 1 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） 速度快、无审计、不限量！适合流媒体&PT下载！ |
 | 2 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ￥1.5月/100G,￥2.99月/500G |
 | 3 | [Kitty Network](#kitty-network) | [官网](https://kitty.fo/#/register?code=ar5w8qPn) | ￥24年付/128G（平均2元/月） |
 | 3 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)、经济实惠、流媒体解锁、不限制设备！ |
@@ -227,24 +227,17 @@
 <hr>
 
 
-### 轻云
+### 果冻加速
 
-套餐价格：¥6/2TB（长期）流量超大适合当长期备用！
+套餐价格：¥9.9/不限量（月付）
 
 特点：
-* 不限速，不限在线设备数量
-* 长期备用性价比超高、不过节点较少
+* 速度快、无审计、不限量！
+* 适合流媒体！PT下载！节点较少为日、美、港
 * 解锁 Netflix，Disney+，ChatGPT等
 
-[轻云官网](https://qing.to/#/register?code=9pWeoTtH)
-<details>
-<summary>套餐价格</summary>
+[果冻加速官网](https://naichachong.com/#/register?code=yO3p6doW)
 
-![套餐价格](./image/轻云/price.png)
-
-</details>
-
-<hr>
 
 ### 赔钱机场
 套餐价格：￥1.5/100G,￥2.99/500G
