@@ -26,10 +26,10 @@
 # 二、备用推荐
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） 速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 1 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） <br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 | 2 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ￥1.5月/100G,￥2.99月/500G |
 | 3 | [Kitty Network](#kitty-network) | [官网](https://kitty.fo/#/register?code=ar5w8qPn) | ￥24年付/128G（平均2元/月） |
-| 3 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)、经济实惠、流媒体解锁、不限制设备！ |
+| 3 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)<br>经济实惠、流媒体解锁、不限制设备！ |
 
 > **家宽/电商**：悦通（目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点与专属AI节点！）狗子云（主要是香港与台湾住宅IP，以及美国的原生IP）   
 
