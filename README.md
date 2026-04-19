@@ -21,6 +21,7 @@
 | 6  | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥9.9/200GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、可分销、超低价格 |
 | 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=h3fwdY8y) | ¥4/520GB(直连+家宽)¥10/100G(带专线+家宽),直连+中转+家宽 有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
+| 9  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥5月付/300GB,有南极、冰岛等稀缺iP、原生&住宅iP |
 
 
 # 二、备用推荐
@@ -226,6 +227,26 @@
 
 <hr>
 
+### 落云
+
+套餐价格： ¥5/300G（月付）¥16/1TB（长期）
+
+特点：
+* 南极 冰岛等稀缺iP 原生iP 住宅iP
+* 解锁：Netflix, ChatGPT, Gemini 等
+* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
+
+[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/落云/price.png)
+
+</details>
+
+
+<hr>
+
 
 ### 果冻加速
 
@@ -293,3 +314,5 @@
 </details>
 
 <hr>
+
+
