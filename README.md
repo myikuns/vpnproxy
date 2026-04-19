@@ -15,7 +15,7 @@
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通](#悦通) | [官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn) | ￥49.9年付/月200G(平均4.15元/月)、¥12.9/月付/1TB,送永久Emby,**套餐介绍有💎的含家宽节点** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥29.9/1.5TB(长期),¥699/永久,送期限Emby,含家宽节点 |
-| 3  | [苏菲家宽](#苏菲家宽) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽】<br>内有日本、美国等星链家宽！**$${\color{yellow}{直连版无家宽！}}$$** |
+| 3  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽】<br>内有日本、美国等星链家宽！**$${\color{yellow}{直连版无家宽！}}$$** |
 | 4  | [XSUS](#XSUS) | [官网](https://xs-us.xyz/register?code=6LiiWirT) | ¥10月付/168GB,有越、美、日、港台澳等家宽节点，是三年老牌机场！服务超级稳定 |
 | 5  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
 | 6  | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥9.9/200GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
@@ -110,7 +110,7 @@
 * 包含全套静态节点 (美/日/台/英/尼/欧) 具体看套餐简介！晚高峰优秀！
 * 另外有专属美国家宽车只要20￥/250GB！具体注册查看即可！
 
-[苏菲家宽官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3)
+[苏菲家宽官网](https://sufe.pro/#/register?code=wRwmqe9Q)
 <details>
 <summary>套餐价格</summary>
 
