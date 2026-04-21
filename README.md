@@ -41,6 +41,8 @@
 
 <hr>
 
+**联系方式：myikuns@proton.me**
+
 ### 悦通
 [悦通官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn)
 
