@@ -18,7 +18,7 @@
 | 3  | [苏菲家宽<br>官网网站已更新](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽】<br>内有日本、美国等星链家宽！**$${\color{yellow}{直连版无家宽！}}$$** |
 | 4  | [XSUS](#XSUS) | [官网](https://xsus1.jolqx.cn/register?code=9MGu30g4) | ¥10月付/168GB,有越、美、日、港台澳等家宽节点，是三年老牌机场！服务超级稳定 |
 | 5  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
-| 6  | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥9.9/200GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
+| 6  | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、可分销、超低价格 |
 | 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=h3fwdY8y) | ¥4/520GB(直连+家宽)¥10/100G(带专线+家宽),直连+中转+家宽 有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
 | 9  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥5月付/300GB,有南极、冰岛等稀缺iP、原生&住宅iP |
@@ -184,17 +184,24 @@
 <hr>
 
 ### 蜜雪冰城
-套餐价格：￥2/100GB 另外有永久套餐！
+套餐价格：￥2/100GB ￥21/1TB 另外有永久套餐！
 
 特点：
 * 有电信专属优化,BGP与0.5x低倍率节点！
 * Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
+* 有永久套餐，速度快！不过节点主要为港日美！
 
 [蜜雪冰城官网](https://kad520.uk/#/register?code=5UplgCKR)
 <details>
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/蜜雪冰城/price.png)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./image/蜜雪冰城/speed.jpg)
 
 </details>
 <hr>
