@@ -21,16 +21,16 @@
 | 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥5月付/300GB,**有南极、冰岛等稀缺iP,原生&住宅iP,可以更改抖音&红薯IP!** |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 | 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=h3fwdY8y) | ¥4/520GB(直连+家宽)¥10/100G(带专线+家宽),直连+中转+家宽 有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
-| 9  | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
 
 
 # 二、备用推荐
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） <br>速度快、无审计、不限量！适合流媒体&PT下载！ |
-| 2 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ￥1.5月/100G,￥2.99月/500G |
-| 3 | [Kitty Network](#kitty-network) | [官网](https://kitty.fo/#/register?code=ar5w8qPn) | ￥24年付/128G（平均2元/月） |
-| 3 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)<br>经济实惠、流媒体解锁、不限制设备！ |
+| 1 | [Kitty Network](#kitty-network) | [官网](https://kitty.fo/#/register?code=ar5w8qPn) | ￥24年付/128G（平均2元/月） |
+| 2 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
+| 3 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） <br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 4 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ￥1.5月/100G,￥2.99月/500G |
+| 5 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)<br>经济实惠、流媒体解锁、不限制设备！ |
 
 > **家宽/电商**：**悦通**（目前有台湾/美国/日本/韩国/越南 ISP 家宽节点，套餐带💎有家宽节点与专属AI节点！）狗子云（主要是香港与台湾住宅IP，以及美国的原生IP）   
 
