@@ -20,7 +20,7 @@
 | 5  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
 | 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥9月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
 | 7  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3月付/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
-| 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥4/520GB(直连+家宽)¥10/100G(带专线+家宽),直连+中转+家宽 有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
+| 8  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥4/520GB(直连+家宽)¥10/100G(带专线+家宽),**联通不推荐**！有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
 
 
 # 二、备用推荐
