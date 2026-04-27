@@ -129,7 +129,7 @@
 * 服务超级稳定、超低延迟、节点众多！速度快！
 * 三网延迟优化，节点丰富，体验很好！
 
-[XSUS官网](https://xsus1.jolqx.cn/register?code=9MGu30g4)
+[XSUS官网](https://xsus1.com/register?code=9MGu30g4)
 <details>
 <summary>套餐价格</summary>
 
