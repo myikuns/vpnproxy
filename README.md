@@ -15,7 +15,7 @@
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通·优](#悦通) | [官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn) | ￥49.9年付/200G(平均4.15元/月)¥12.9月付/1TB,送永久Emby,**套餐介绍有💎的含家宽节点** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥29.9/1.5TB(长期),¥699/永久,送期限Emby,**含家宽节点** |
-| 3  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽】<br>内有日本、美国等星链家宽！**$${\color{red}{直连版无家宽！}}$$** |
+| 3  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！**$${\color{red}{直连版无家宽！}}$$** |
 | 4  | [XSUS](#XSUS) | [官网](https://xsus1.com/register?code=9MGu30g4) | ¥10月付/168GB,有越、美、日、港台澳等家宽节点，是**三年老牌机场!服务超级稳定!** |
 | 5  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
 | 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥9月付/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
