@@ -13,9 +13,9 @@
 # 一、主力推荐
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**含超低倍率0.05倍节点、全线路CN2 GIA + 9929 + CMIN2!** |
+| 1  | [悦通·优](#悦通) | [官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn) | ￥49.9年付/200G(平均4.15元/月)¥12.9月付/1TB,送永久Emby,**套餐介绍有💎的含家宽节点** |
 | 2  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{含有250+条高速线路与部分家宽线路，覆盖全球100+个国家(含卫星网络)}}$$** |
-| 3  | [悦通·优](#悦通) | [官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn) | ￥49.9年付/200G(平均4.15元/月)¥12.9月付/1TB,送永久Emby,**套餐介绍有💎的含家宽节点** |
+| 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**含超低倍率0.05倍节点、全线路CN2 GIA + 9929 + CMIN2!** |
 | 4  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥29.9/1.5TB(长期),¥699/永久,送期限Emby,**含家宽节点** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！**$${\color{red}{直连版无家宽！}}$$** |
 | 6  | [XSUS](#XSUS) | [官网](https://xsus1.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！ |
