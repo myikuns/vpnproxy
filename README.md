@@ -14,7 +14,7 @@
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通·优](#悦通) | [官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn) | ￥49.9年付/200G(平均4.15元/月)¥12.9月付/1TB,送永久Emby,**套餐介绍有💎的含家宽节点** |
-| 2  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{含有250+条高速线路与部分家宽线路，覆盖全球100+个国家(含卫星网络)}}$$** |
+| 2  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **$${\color{red}{含有250+条高速线路与超多家宽线路，覆盖全球100+个国家(含卫星网络)}}$$** |
 | 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB(直连+家宽)**含超低倍率0.05倍节点、全线路CN2 GIA + 9929 + CMIN2!** |
 | 4  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥29.9/1.5TB(长期),¥699/永久,送期限Emby,**含家宽节点** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！**$${\color{red}{直连版无家宽！}}$$** |
@@ -98,6 +98,46 @@
 <summary>测速</summary>
 
 ![测速](./image/雪山机场/speed.jpg)
+
+</details>
+
+<hr>
+
+### TAG
+**套餐价格：¥114/500G  ¥219/999G  ¥185(季付)/每月250GB**
+
+**特点(就是家宽多、线路超级丰富)：**
+* 提供250+ 条高速线路，覆盖全球 100+ 个国家和地区(含卫星网络)，畅享低延迟体验！超多家宽节点！
+* 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制！
+* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制
+* 注意！最多【10】个设备同时链接使用！不保证【Tiktok】能用、不保证【抖音、快手、微博、B站等大陆应用】修改定位!
+
+[官网跳转](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/TAG/price.png)
+
+</details>
+
+<hr>
+
+### 肯の机
+**套餐价格：￥35/100GB ￥70/200GB ￥105/300G ￥300/1TB**
+
+**最新优惠：顶尖机场、顶尖体验、暂无优惠！前期建议先买最便宜测试使用！**
+
+特点：
+* 提供🚀GTM均衡优化入口线路负载 带V6入口 GOMAMI DMIT等入口 AKARI等出口
+* 速率高达2Gbps、无限制同时连接 IP 数！ 附带部分家宽节点！
+* 全1倍率节点,赠超低0.02倍率！
+* 解锁全流媒体解锁和全AI解锁！！！
+
+[官网跳转](https://kendeji.io/#/auth?invite=uu15Kzxj)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/肯の机/price.png)
 
 </details>
 
@@ -261,47 +301,6 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 
 <hr>
-
-### 肯の机
-套餐价格：￥35/100GB ￥70/200GB ￥105/300G ￥300/1TB
-
-最新优惠：顶尖机场、顶尖体验、暂无优惠！前期建议先买最便宜测试使用！
-
-特点：
-* 提供🚀GTM均衡优化入口线路负载 带V6入口 GOMAMI DMIT等入口 AKARI等出口
-* 速率高达2Gbps、无限制同时连接 IP 数！ 附带部分家宽节点！
-* 全1倍率节点,赠超低0.02倍率！
-* 解锁全流媒体解锁和全AI解锁！！！
-
-[官网跳转](https://kendeji.io/#/auth?invite=uu15Kzxj)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/肯の机/price.png)
-
-</details>
-
-<hr>
-
-### TAG
-套餐价格：¥114/500G  ¥219/999G  ¥185(季付)/每月250GB
-
-特点(就是家宽多、线路超级丰富)：
-* 提供250+ 条高速线路，覆盖全球 100+ 个国家和地区(含卫星网络)，畅享低延迟体验！超多家宽节点！
-* 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制！
-* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制
-* 注意！最多【10】个设备同时链接使用！不保证【Tiktok】能用、不保证【抖音、快手、微博、B站等大陆应用】修改定位!
-
-[官网跳转](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/TAG/price.png)
-
-</details>
-
-<hr>
-
 
 ### 果冻加速
 
