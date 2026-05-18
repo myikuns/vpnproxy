@@ -28,7 +28,7 @@
 | 5  | [XFLTD](#XFLTD) | [官网](https://my.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,拥有优质公网中转！解锁常见流媒体&AI平台！ |
 | 6  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极、冰岛等稀缺iP,原生IP,住宅iP,另外可以更改抖音红薯IP}}$$** |
 | 7  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量！但限制设备2台！ |
-| 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快！ |
+| 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,￥4/500GB、三网优化、速度超快、晚高峰超快<br>目前有七折码：爱你如初LXY |
 | 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港与台湾住宅IP以及美国原生IP、**可分销**、超低价格 |
 
 
@@ -287,6 +287,8 @@ IEPL企业专线套餐：￥52季付/50G
 
 ### 良心云
 套餐价格：¥2/100GB,￥4/500GB
+
+优惠(截至5.22晚24点)：目前有七折码：爱你如初LXY
 
 特点：
 * 支持新疆，河南，福建，用户使用
