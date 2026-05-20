@@ -190,13 +190,13 @@
 
 ### 雪山机场
 
-套餐价格：29.9元/年 200G/月（平均2.5元/月）送Emby
+套餐价格：¥9.9/500GB（月付）    ¥39.9/1500GB（不限时） ¥799 三不限！永久买断！
 
 特点：
-* 有家宽节点（香港，台湾，韩国等）
-* 订阅任意套餐即可免费使用 Emby，支持在线观看电影、剧集、动漫等内容，手机 / 电脑 / 平板多端播放。
-* 电信/联通/移动 多线接入
-* 不限连接数量
+* 有家宽节点（香港，台湾，韩国等）、套餐赠送EMBY期限跟套餐时间一样！
+* 订阅任意套餐即可免费使用 Emby，三端均可使用！
+* 内有推广专用包，可以自行分销！
+* 套餐为不限设备连接数量、随便使用但滥用会封禁！
 * **包含原生，家宽节点**
 
 [雪山机场官网](https://www.xueshan.shop/#/register?code=h0lPgItf)
@@ -204,13 +204,16 @@
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/雪山机场/price.png)
-![套餐价格](./image/雪山机场/price1.png)
 </details>
 <details>
-<summary>测速</summary>
+<summary>流媒体解锁</summary>
 
-![测速](./image/雪山机场/speed.jpg)
+![测速](./image/雪山机场/js.jpg)
+</details>
+<details>
+<summary>测速表</summary>
 
+![测速](./image/雪山机场/speed.png)
 </details>
 <hr>
 
