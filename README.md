@@ -38,7 +38,7 @@
 | -------- | -------- | -------- | -------- |
 | 1 | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：**MFXY95%yyds** |
 | 2 | [Kitty Network](#kitty-network) | [官网](https://kitty.sb/#/register?code=UZPduMjD) | ¥24年付/128G（平均2元/月） |
-| 3 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥2月付/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
+| 3 | [蜜雪冰城](#蜜雪冰城) | [官网](https://kad520.uk/#/register?code=5UplgCKR) | ¥3/100GB,￥21/100GB(长期),含电信专属优化、BGP与0.5x低倍率节点 |
 | 4 | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量（月付） <br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 | 5 | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5月/100G,￥2.99月/500G |
 | 6 | [亏本机场](#亏本机场) | [官网](https://xn--7kq24s4ynvb.site/#/register?code=XZxkVGXN) | ¥2/500G(月付)¥10/1234GB(长期)<br>经济实惠、流媒体解锁、不限制设备！ |
@@ -395,7 +395,7 @@ IEPL企业专线套餐：￥52季付/50G
 <hr>
 
 ### 蜜雪冰城
-套餐价格：￥2/100GB ￥21/1TB 另外有永久套餐！
+套餐价格：￥3/100GB ￥21/1TB 另外有永久套餐！
 
 特点：
 * 有电信专属优化,BGP与0.5x低倍率节点！
