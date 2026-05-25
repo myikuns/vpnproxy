@@ -12,7 +12,7 @@
 # 一、顶尖推荐（首选）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
-| 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **含有250+高速线路与超多家宽线路**<br>**覆盖全球100+个国家(含卫星网络)** |
+| 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **有250+高速线路与超多家宽线路!**<br>**覆盖全球100+个国家(含卫星网络)!** |
 | 2  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
 | 3  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥35/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
 | 4  | [西部数据](#西数) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200G,**$${\color{red}{线路为国际IPEL+大陆BGP多线接入!线路优质性价比超高！}}$$** |
