@@ -269,6 +269,24 @@
 </details>
 <hr>
 
+### 落云
+
+套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：60FFF**
+
+特点：[节点列表](https://88888.ee88.tk/#/nodes)
+* 南极 冰岛等稀缺iP 原生iP 住宅iP
+* 解锁：Netflix, ChatGPT, Gemini 等
+* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
+* 节点三网优化 带宽5Gbps+ 线路80+
+
+[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/落云/price.png)
+</details>
+<hr>
+
 ### XSUS
 
 套餐价格：¥12/168GB 
@@ -304,24 +322,6 @@ IEPL企业专线套餐：￥52季付/50G
 <summary>套餐价格</summary>
 
 ![套餐价格](./image/XFLTD/price.png)
-</details>
-<hr>
-
-### 落云
-
-套餐价格： ¥12/300G（月付）¥23/600GB（月付） **此机场不定时更换价位、需要早买以防涨价！折扣码：60FFF**
-
-特点：[节点列表](https://88888.ee88.tk/#/nodes)
-* 南极 冰岛等稀缺iP 原生iP 住宅iP
-* 解锁：Netflix, ChatGPT, Gemini 等
-* 网速不限速 同时在线设备不限制 可改抖音iP 小红书iP
-* 节点三网优化 带宽5Gbps+ 线路80+
-
-[落云官网](https://88888.ee88.tk/#/register?code=UVI42l9q)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/落云/price.png)
 </details>
 <hr>
 
