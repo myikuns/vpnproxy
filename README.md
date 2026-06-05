@@ -167,7 +167,7 @@
 <hr>
 
 ### 悦通
-[悦通官网](https://yk1u.yue.to/#/register?code=JqCr6Tpn)
+[悦通官网](https://my.yue.to/#/register?code=JqCr6Tpn)
 
 **最新优惠：🔥五二零活动(5.18-5.23)七折优惠码：YUE520**
 
