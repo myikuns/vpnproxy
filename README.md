@@ -416,6 +416,22 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
+### Kitty Network
+
+套餐价格：￥24年付/128G（平均2元/月）
+
+特点：
+* 不限速，不限在线设备数量
+* 解锁 Netflix，Disney+，ChatGPT等
+
+[Kitty Network官网](https://kitty.sb/#/register?code=UZPduMjD)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/KittyNetwork/price.png)
+</details>
+<hr>
+
 ### 墨菲云
 套餐价格：¥3.2/222GB(直连+家宽)¥6.6/1111G(直连+家宽) ¥21长期/222GB(直连+家宽)
 
@@ -473,22 +489,6 @@ IEPL企业专线套餐：￥52季付/50G
 
 ![套餐价格](./image/狗子云/price.png)
 ![套餐价格](./image/狗子云/price1.png)
-</details>
-<hr>
-
-### Kitty Network
-
-套餐价格：￥24年付/128G（平均2元/月）
-
-特点：
-* 不限速，不限在线设备数量
-* 解锁 Netflix，Disney+，ChatGPT等
-
-[Kitty Network官网](https://kitty.sb/#/register?code=UZPduMjD)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/KittyNetwork/price.png)
 </details>
 <hr>
 
