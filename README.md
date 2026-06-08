@@ -26,7 +26,6 @@
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买有💎的套餐·含家宽节点}}$$** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 3  | [雨燕云](#雨燕云) | [官网](https://new4.yuyan.online/#/register?code=Pe2RS8uV) | ¥13.8/158GB,有CN2/9929/CMIN2且六线智能BGP负载均衡！ |
 | 4  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
 | 5  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(不限时)<br>主要为美日新台港,**不限设备数量** |
 | 6  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！|
