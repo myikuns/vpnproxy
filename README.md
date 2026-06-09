@@ -110,7 +110,9 @@
 <summary>单线程测速</summary>
   
 ![节点](./image/奶昔/speed.png)
+![节点](./image/奶昔/dx.png)
 </details>
+
 <hr>
 
 ### 肯の机
@@ -462,7 +464,8 @@ IEPL企业专线套餐：￥52季付/50G
 <details>
 <summary>测速图</summary>
 
-![套餐价格](./image/赔钱机场/speed.png)
+![套餐价格](./image/赔钱机场/lt.png)
+![套餐价格](./image/赔钱机场/dx.png)
 </details>
 <hr>
 
