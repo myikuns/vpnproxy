@@ -521,51 +521,7 @@ IEPL企业专线套餐：￥52季付/50G
 <hr>
 
 
-
-
-
-
-### 雨燕云
-套餐价格：¥13.8/158G  ¥29.8/512G 
-
-特点：
-* CN2/9929/CMIN2 六线智能BGP负载均衡
-* 50+ 全球节点可选、节点丰富！
-* 支持访问各类AI网站以及流媒体网站
-* 个人使用不限制设备数量！
-
-[官网跳转](https://new4.yuyan.online/#/register?code=Pe2RS8uV)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/雨燕云/price.png)
-</details>
-<details>
-<summary>三网测速</summary>
-
-![测速](./image/雨燕云/yd.jpg)移动
-![测速](./image/雨燕云/lt.jpg)联通
-![测速](./image/雨燕云/dx.jpg)电信
-</details>
-<details>
-<summary>流媒体解锁</summary>
-
-![解锁](./image/雨燕云/lmt.png)
-</details>
-<hr>
-
-### 西数
-**套餐价格：¥20/200GB ¥40/400GB ¥60/600GB**
-
-特点：
-* 国际 IPLC 传输线路+中国大陆 BGP 多线接入!
-* 解锁Netfilx、Disney+等主流流媒体平台的区域限制！
-* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制！
-
-[西数官网](https://wd-gold.net/aff.php?aff=14681)
-<details>
-<summary>套餐价格</summary>
-
+# 后续不定时上新实测情况有需要可以点个star关注，有信息第一时间收到推送！
 ![套餐价格](./image/西数/price.png)
 </details>
 <hr>
