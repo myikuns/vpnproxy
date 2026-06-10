@@ -411,7 +411,7 @@ IEPL企业专线套餐：￥52季付/50G
 * 分销版:¥32/1000GB(带ISP家宽) 地区 🇭🇰 🇲🇴 🇹🇼 🇯🇵 🇸🇬 🇰🇷 🇺🇸 🇬🇧 原生/家宽双 ISP/商宽节点
 * 家宽低延迟节点为1.1x~1.5x、三网优化!
 * 稳定解锁流媒体奈菲、迪士尼、TikTok、ChatGPT 等
-* 永久95折折扣码：**MFXY95%yyds**
+* 永久95折折扣码：`MFXY95%yyds`
 
 [墨菲云官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V)
 <details>
