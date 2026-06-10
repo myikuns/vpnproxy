@@ -61,7 +61,7 @@
 * 提供250+ 条高速线路，覆盖全球 100+ 个国家和地区(含卫星网络)，畅享低延迟体验！超多家宽节点！
 * 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制！
 * 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制
-* 注意！最多【10】个设备同时链接使用！不保证【Tiktok】能用、不保证【抖音、快手、微博、B站等大陆应用】修改定位!
+* 注意！最多【10】个设备同时链接使用！
 
 [官网跳转](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ)
 <details>
