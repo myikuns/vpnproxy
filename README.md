@@ -258,6 +258,11 @@
 
 ![套餐价格](./image/落云/price.png)
 </details>
+<details>
+<summary>节点列表</summary>
+
+![测速](./image/落云/jd.png)
+</details>
 <hr>
 
 ### XSUS
