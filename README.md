@@ -39,11 +39,10 @@
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [墨菲云](#墨菲云) | [官网](https://portal.mofeiyun.com/#/register?code=6pErwD6V) | ¥3.2/222GB(直连+家宽)¥6.6/1111G,有0.1x节点<br>永久95折折扣码：`MFXY95%yyds` |
-| 2  | [搅局者](#搅局者) | [官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc) | ¥16.9一年不限量不限速！但限制设备2台! |
-| 3  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
-| 4  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
-| 5  | [XSWL](#XSWL) | [官网](https://xswl-cloud.com/#/register?code=TnsF16ZW) | ¥2/500G,¥9.9/1.95TB,移动速度超级快！ |
-| 6  | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
+| 2  | [赔钱机场](#赔钱机场) | [官网](https://xn--mes358aby2apfg.com/register?code=esmud6xa&cover=sfw) | ¥1.5/100G,¥18.9/1T(长期)<br>老牌机场稳定性很好! |
+| 3  | [一分机场](#一分机场) | [官网](https://xn--4gqx1hgtfdmt.com/#/register?code=dP76b44a) | ¥2/100G,¥6/1TB,¥11.88/100G(长期) |
+| 4  | [XSWL](#XSWL) | [官网](https://xswl-cloud.com/#/register?code=TnsF16ZW) | ¥2/500G,¥9.9/1.95TB,移动速度超级快！ |
+| 5  | [果冻加速](#果冻加速) | [官网](https://naichachong.com/#/register?code=yO3p6doW) | ¥9.9/不限量(月付)<br>速度快、无审计、不限量！适合流媒体&PT下载！ |
 
 > **家宽/电商**：**苏菲家宽**目前有专属星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！ **TAG**一分钱一分货，家宽超级多！线路优化极佳！有钱的不二之选！
 
@@ -426,35 +425,6 @@ IEPL企业专线套餐：￥52季付/50G
 ![测速](./image/墨菲云/speed.jpg)
 </details>
 <hr>
-
-### 搅局者
-套餐价格：￥10.9年付/每月500GB & ￥16.9一年/不限量 · 但限制设备2台！
-
-特点：
-* 提供提供[Basic]和[Premium]系列节点，包括香港，台湾，新加坡，日本，美国等节点
-* 无限流量+无速度限制！支持下载/观影 EMBY爽看！
-* 解锁常见流媒体与AI等
-* 注：此机场性比价超高，经常被攻击，稳定性欠佳，不过这个价位没啥说的了，介意就别上车了！
-
-[搅局者官网](https://xn--dgtr4ppoz.com/#/register?code=PWV5Y7dc)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./image/搅局者/price.png)
-</details>
-<details>
-<summary>测速图</summary>
-
-![测速](./image/搅局者/speed.jpg)
-</details>
-<details>
-<summary>流媒体&AI解锁图</summary>
-
-![测速](./image/搅局者/ai.png)
-![测速](./image/搅局者/lmt.png)
-</details>
-<hr>
-
 
 ### 赔钱机场
 套餐价格：¥1.5/100G,¥2.99/500G  ¥18.9/1TB长期,¥68.9/4TB长期
