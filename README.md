@@ -277,7 +277,7 @@
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./image/飞鸟云/price.png)
+![套餐价格](./image/飞鸟云/prcie.png)
 </details>
 <details>
 <summary>测速图</summary>
