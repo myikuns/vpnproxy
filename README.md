@@ -19,7 +19,8 @@
 | 3  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
 | 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
 | 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** 
-| 6  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2<br>注:节点地区较少！ |
+| 6  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入<br>另有国际 IPLC 传输线路！ |
+| 7  | [上帝世界](#上帝世界) | [官网](https://god-world.com/#/register?code=Dp1RYGLE) | ¥25/100GB,顶尖线路:电信 CN2GIA·联通 9929·移动 CMIN2<br>注:节点地区较少！ |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -160,6 +161,28 @@
 ![套餐价格](./image/苏菲家宽/price2.png)
 </details>
 <hr>
+
+### 西部数据
+套餐价格：¥20/200GB,¥40/400GB,¥60/600GB 【仅支持月付】
+
+特点：
+* 🎖️ 中国大陆 BGP 多线接入 + 国际 IPLC 传输线路
+* 🧩 解锁Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
+* 🚀 三网超低延迟，畅享极速网络体验！
+
+[西部数据官网](https://wd-gold.net/aff.php?aff=14681)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./image/西部数据/price.png)
+</details>
+<details>
+<summary>测速图</summary>
+
+![测速](./image/西部数据/speed.png)
+</details>
+<hr>
+
 
 ### 上帝世界
 套餐价格：¥15/50GB,¥25/100GB,¥75/300GB (仅支持月付)
@@ -505,3 +528,4 @@ IEPL企业专线套餐：￥52季付/50G
 
 
 ### 后续不定时上新实测情况有需要可以点个star关注，有信息第一时间收到推送！
+
