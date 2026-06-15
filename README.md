@@ -16,24 +16,24 @@
 | -------- | -------- | -------- | -------- |
 | 1  | [TAG](#TAG) | [官网](https://558343.dedicated-afflink.com/#/auth/dvmePpjQ) | ¥114/500GB **有250+高速线路与超多家宽线路!**<br>**覆盖全球100+个国家(含卫星网络)!** |
 | 2  | [VikingLinks](#VikingLinks) | [官网](https://feeds.viking-links.tech/#/register?code=il5kLeXJ) | ¥72/500GB **$${\color{red}{目前很稳的高端机场,速度飞快!}}$$** |
-| 3  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$** |
-| 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！** |
-| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥9.9/1TB【纯直连】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！<br>**$${\color{red}{直连版无家宽！}}$$** 
-| 6  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入<br>另有国际 IPLC 传输线路！ |
+| 3  | [奶昔](#奶昔) | [官网](https://nxonearth.com/signupbyemail.aspx?MemberCode=a382c243c1454800a5680e4ff54aa67220260518153643) | ¥74.55/200GB **$${\color{red}{老牌顶级线路机场,速度快!节点质量高!}}$$**  |
+| 4  | [肯の机](#肯の机) | [官网](https://kendeji.io/#/auth?invite=uu15Kzxj) | ¥40/100GB,**直连家宽全线路CN2GIA+9929+CMIN2!延迟超低！**  |
+| 5  | [苏菲家宽](#苏菲家宽) | [官网](https://sufe.pro/#/register?code=wRwmqe9Q) | ¥50/800GB【星链版】<br>¥20/250G【美国家宽车】<br>内有日本、美国等星链家宽！  |
+| 6  | [西部数据](#西部数据) | [官网](https://wd-gold.net/aff.php?aff=14681) | ¥20/200GB,中国大陆 BGP 多线接入<br>另有国际 IPLC 传输线路！  |
 
 # 二、主力推荐（性价比）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
 | -------- | -------- | -------- | -------- |
 | 1  | [悦通](#悦通) | [官网](https://my.yue.to/#/register?code=JqCr6Tpn) | ¥59.9年付/200G(平均5元/月)¥14.9月付/1TB<br>**$${\color{red}{送永久EMBY,建议购买有💎的套餐·含家宽节点}}$$** |
 | 2  | [雪山机场](#雪山机场) | [官网](https://www.xueshan.shop/#/register?code=h0lPgItf) | ¥9.9月付/500GB,¥39.9/1.5TB(长期)¥799/永久<br>**$${\color{red}{送期限EMBY,含家宽·原生节点！另有分销套餐！}}$$** |
-| 4  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
-| 5  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(不限时)<br>主要为美日新台港,**不限设备数量** |
-| 6  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！|
-| 7  | [XFLTD](#XFLTD) | [官网](https://www.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,¥24/120GB(长期),拥有优质公网中转！性价比较高 |
-| 8  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
-| 9  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销**,奠信不推荐 |
-| 10 | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
-| 11 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
+| 3  | [落云](#落云) | [官网](https://88888.ee88.tk/#/register?code=UVI42l9q) | ¥12/300GB,**$${\color{red}{有南极,冰岛等稀缺iP,原生IP,住宅iP}}$$** |
+| 4  | [飞鸟云](#飞鸟云) | [官网](https://fn1.476579.xyz/#/register?code=CPxiG6b6) | ¥10/200G(不限时)<br>主要为美日新台港,**不限设备数量** |
+| 5  | [XSUS](#XSUS) | [官网](https://xsus3.com/register?code=6LiiWirT) | ¥12/168GB,有越、美、日、港台澳等家宽节点，有专属IPEL专线！|
+| 6  | [XFLTD](#XFLTD) | [官网](https://www.xfltd.org/#/register?code=ptlnb86g) | ¥7/150GB,¥24/120GB(长期),拥有优质公网中转！性价比较高 |
+| 7  | [良心云](#良心云) | [官网](https://xn--9kqz23b19z.com/#/register?code=yZcE4Uf3) | ¥2/100GB,¥4/500GB、三网优化、速度超快、晚高峰超快 |
+| 8  | [狗子云](#狗子云) | [官网](https://gz-cloud.top/#/register?code=kDV2n3tI) | ¥3/168GB,有香港&台湾住宅IP,美国原生IP,**可分销**,奠信不推荐 |
+| 9  | [星链机场](#星链机场) | [官网](https://xship.top/?TyW6eXj) | ¥12/188GB ¥35/688G,三网优化IPLC专线,50+地区节点<br> **$${\color{red}{注册就送永久免费888PB}}$$** |
+| 10 | [牢大云](#牢大云) | [官网](https://laodayun.com/#/register?code=BlatljSN) | ¥8/52G,¥15/128GB,加速专线节点+跨境电商原生家宽IP<br> **$${\color{red}{注册就送永久免费999999G}}$$** |
 
 # 三、备用推荐（低价）
 | 序号 | 机场名（点击跳转详情） | 官网 | 套餐与特色（默认月付） |
@@ -48,7 +48,7 @@
 
 > **专线/星链**：**TAG**家宽超级丰富！质量非常高！**苏菲家宽**有独家星链家宽网络！还有特色的拼车套餐-美国静态家宽车只要20￥/250GB！  **XSUS*** 拥有专属IPEL专线，游戏节点等企业专线套餐！
 
-> **影视/Emby/永久**：**悦通&雪山**、 悦通主要是便宜实惠！永久套餐与带💎的套餐不错！雪山EMBY有期限，根据套餐时间来定制！永久除外！但悦通目前的EMBY体验不如雪山
+> **影视/Emby/永久**：**悦通&雪山**、 悦通主要是便宜实惠！永久套餐与带💎的套餐不错！雪山EMBY有期限，根据套餐时间来定制！永久除外！但悦通目前的EMBY体验不如雪山！
 
 <hr>
 
