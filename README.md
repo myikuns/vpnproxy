@@ -233,6 +233,11 @@
   
 ![套餐价格](./image/悦通/price.png)
 </details>
+<details>
+<summary>专属节点测速</summary>
+  
+![套餐价格](./image/悦通/zs.png)
+</details>
 <hr>
 
 ### 雪山机场
