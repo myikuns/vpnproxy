@@ -1,4 +1,4 @@
-![LOGO](./image/Air.png)
+![LOGO](./image/logo.png)
 
 # 2026 最新机场推荐 | Clash / v2ray 性价比、稳定机场梯子真实测评（持续更新）
 
