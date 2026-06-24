@@ -441,19 +441,6 @@ IEPL企业专线套餐：￥52季付/50G
 </details>
 <hr>
 
-
-### 果冻加速
-
-套餐价格：¥9.9/不限量（月付）
-
-特点：
-* 速度快、无审计、不限量！
-* 适合流媒体！PT下载！节点较少为日、美、港
-* 解锁 Netflix，Disney+，ChatGPT等
-
-[果冻加速官网](https://guodongjiasu.com/#/register?code=yO3p6doW)
-<hr>
-
 ### 乌拉VPN
 
 套餐价格：¥1/100G，¥5/1TB，¥20/5TB（只有月付·没有不限时套餐）
@@ -475,6 +462,18 @@ IEPL企业专线套餐：￥52季付/50G
 
 ![套餐价格](./image/乌拉VPN/speed.png)
 </details>
+<hr>
+
+### 果冻加速
+
+套餐价格：¥9.9/不限量（月付）
+
+特点：
+* 速度快、无审计、不限量！
+* 适合流媒体！PT下载！节点较少为日、美、港
+* 解锁 Netflix，Disney+，ChatGPT等
+
+[果冻加速官网](https://guodongjiasu.com/#/register?code=yO3p6doW)
 <hr>
 
 ## 💬 后续不定时上新实测情况！有需要可以点个Star有更新第一时间推送！
